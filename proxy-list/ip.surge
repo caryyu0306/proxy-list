@@ -1,6 +1,8 @@
-#SH
+#market vdi
 IP-CIDR,10.10.82.0/24,no-resolve
+IP-CIDR,10.248.8.0/21,no-resolve
 IP-CIDR,192.168.172.0/23,no-resolve
+IP-CIDR,107.167.184.0/24,no-resolve 
 #SZ
 IP-CIDR,10.240.0.0/12,no-resolve
 IP-CIDR,58.97.144.0/24,no-resolve
