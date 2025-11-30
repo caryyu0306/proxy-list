@@ -1,8 +1,8 @@
-Server1 =  http, 220.243.154.24, 10878
-Server2 =  http, 61.157.135.26, 9727
-Server3 =  http, 114.55.114.43, 8528
-Server4 =  http, 114.55.114.43, 18666
-Server5 =  http, 183.215.23.242, 9091
+Server1 =  socks5, 222.59.173.105, 44103
+Server2 =  http, 180.166.128.182, 34000
+Server3 =  http, 183.215.23.242, 9091
+Server4 =  http, 165.154.186.55, 10001
+Server5 =  http, 36.147.78.166, 80
 Server6 =  http, 58.216.109.14, 800
 Server7 =  http, 221.231.13.198, 1080
 Server8 =  http, 58.241.88.18, 800
