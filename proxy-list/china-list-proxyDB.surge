@@ -1,9 +1,9 @@
 Server1 =  http, 180.166.128.182, 24001
-Server2 =  http, 203.19.38.114, 1080
-Server3 =  http, 111.79.111.126, 3128
+Server2 =  http, 114.55.114.43, 8303
+Server3 =  http, 203.19.38.114, 1080
 Server4 =  http, 203.196.8.6, 3128
-Server5 =  http, 218.77.60.210, 11231
-Server6 =  http, 49.4.117.146, 3128
+Server5 =  http, 182.47.249.45, 88
+Server6 =  http, 218.77.60.210, 11231
 Server7 =  http, 113.204.79.230, 9091
 Server8 =  http, 36.138.53.26, 10017
 Server9 =  http, 58.216.109.14, 800
