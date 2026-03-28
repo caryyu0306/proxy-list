@@ -1,8 +1,8 @@
-Server1 =  socks5, 123.54.197.51, 23304
-Server2 =  socks5, 123.54.197.52, 21517
-Server3 =  socks5, 123.54.197.19, 22415
-Server4 =  socks5, 206.123.156.176, 4408
-Server5 =  socks5, 123.54.197.49, 23020
+Server1 =  socks5, 123.54.197.51, 20211
+Server2 =  socks5, 123.54.197.20, 21936
+Server3 =  socks5, 123.54.197.19, 20521
+Server4 =  socks5, 123.54.197.20, 21183
+Server5 =  socks5, 94.130.16.48, 30084
 Server6 =  http, 117.82.138.100, 1080
 Server7 =  http, 103.213.97.78, 80
 Server8 =  http, 221.231.13.198, 1080
